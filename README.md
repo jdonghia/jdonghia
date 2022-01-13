@@ -5,8 +5,8 @@
 ### Stack:
 
 <div style="display: flex; flex-direction: row;">
- <img class="img"  style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=jdonghia&theme=radical" />
- <img class="img" style="width: 50%" src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
+ <img class="img"  style="width: 40%" src="https://github-readme-stats.vercel.app/api?username=jdonghia&theme=radical" />
+ <img class="img" style="width: 40%" src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
 </div>
 
 <div style="display: inline_block"><br/>
