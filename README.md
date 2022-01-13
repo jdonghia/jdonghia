@@ -15,4 +15,5 @@
   <img  style="align: center" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img  style="align: center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img  style="align: center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Chrono Trigger" alt="https://c.tenor.com/uPNQ3eIL3MgAAAAi/chrono-trigger-video-games.gif" />
 </div>
