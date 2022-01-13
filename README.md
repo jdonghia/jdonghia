@@ -2,13 +2,13 @@
 ### Hi! Im João Donghia 🖐️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-donghia-4a0379200/)
 
-<div align="center">
+<div align="center" style="margin-bottom: 30px;" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdonghia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center" >
- <img  style="margin-top: 30px;" src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
+ <img  src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
 </div>
 
 ### Stack:
