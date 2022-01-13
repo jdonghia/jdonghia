@@ -4,7 +4,7 @@
 
 ### Stack:
 
-[![Donghia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdonghia)](https://github.com/jdonghia/github-readme-stats)
+[![Donghia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdonghia&theme=radical)](https://github.com/jdonghia/github-readme-stats)
 
 
 <div style="display: inline_block"><br/>
