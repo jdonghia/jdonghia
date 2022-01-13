@@ -1,8 +1,5 @@
-
-<div align="center">
-  ### Hi! Im João Donghia 🖐️
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-donghia-4a0379200/)
-</div>
+### Hi! Im João Donghia 🖐️
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-donghia-4a0379200/)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdonghia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
