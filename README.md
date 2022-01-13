@@ -7,8 +7,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div align="center" style="margin-top: 200px">
- <img src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
+<div align="center" >
+ <img style="margin-top: 200px" src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
 </div>
 
 ### Stack:
