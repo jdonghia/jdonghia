@@ -2,13 +2,14 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-donghia-4a0379200/)
 
-### Stack:
 
 <div style="display: flex; flex-direction: row;">
  <img class="img"  style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=jdonghia&theme=radical" />
  <img class="img" style="width: 45%" src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
 </div>
 
+
+### Stack:
 <div style="display: inline_block"><br/>
   <img  style="align: center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img  style="align: center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
