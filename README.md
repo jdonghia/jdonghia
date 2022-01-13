@@ -3,7 +3,7 @@
   <div>
   <h2>Hi! Im João Donghia 🖐️</h2>
   <a href="https://www.linkedin.com/in/joão-donghia-4a0379200/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank">
+    <img style="width: 80%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   </div>
      <div align="center">
