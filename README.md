@@ -5,7 +5,6 @@
 ### Stack:
 
 
-[![Donghia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdonghia&theme=radical)](https://github.com/jdonghia/github-readme-stats)
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=jdonghia&theme=radical)](https://github.com/jdonghia/github-readme-stats" />
