@@ -1,7 +1,9 @@
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
+ <div>
  <h1>Hi! Im João Donghia 🖐️</h1>
  <a href="https://www.linkedin.com/in/joão-donghia-4a0379200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
 
 <img  src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
   </div>
