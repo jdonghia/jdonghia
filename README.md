@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-donghia-4a0379200/)
 
 
-<div style="height: 12.5rem; display: flex; flex-direction: row;">
+<div style="height: 5rem; display: flex; flex-direction: row;">
  <img style="width: 55%" src="https://github-readme-stats.vercel.app/api?username=jdonghia&theme=radical" />
  <img style="height: 100%; width: 35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&theme=radical"/>
 </div>
