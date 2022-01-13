@@ -4,8 +4,8 @@
 
 
 <div style="display: flex; flex-direction: row;">
- <img style=" width: 40%" src="https://github-readme-stats.vercel.app/api?username=jdonghia&theme=radical" />
- <img style="height: 15rem; width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&theme=radical"/>
+ <img style=" " src="https://github-readme-stats.vercel.app/api?username=jdonghia&theme=radical" />
+ <img style="height: 15rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&theme=radical"/>
 </div>
 
  <img src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
