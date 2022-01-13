@@ -4,10 +4,11 @@
 
 ### Stack:
 
+
 [![Donghia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdonghia&theme=radical)](https://github.com/jdonghia/github-readme-stats)
 
 
-<img  style="display: inline-block" alt="Chrono Trigger" src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
+<img  alt="Chrono Trigger" src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
 
 
 
