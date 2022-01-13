@@ -5,7 +5,7 @@
 
 <div style="display: flex; flex-direction: row;">
  <img style="height: 10rem" src="https://github-readme-stats.vercel.app/api?username=jdonghia&theme=radical" />
- <img style="height: 10rem; width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&theme=radical"/>
+ <img style="height: 10rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&theme=radical"/>
 </div>
 
  <img src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
