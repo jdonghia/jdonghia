@@ -2,10 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-donghia-4a0379200/)
 
-
-<div style="display: flex; flex-direction: row;">
- <img style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=jdonghia&theme=radical" />
- <img style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&theme=radical"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdonghia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
  <img src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
