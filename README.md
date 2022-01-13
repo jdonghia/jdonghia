@@ -6,8 +6,9 @@
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=jdonghia&theme=radical" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&theme=radical"/>
- <img class="img" src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
 </div>
+
+ <img class="img" src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
 
 
 ### Stack:
