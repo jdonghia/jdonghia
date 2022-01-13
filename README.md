@@ -6,6 +6,7 @@
 
 [![Donghia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdonghia&theme=radical)](https://github.com/jdonghia/github-readme-stats)
 
+<img  style="align: center" alt="Chrono Trigger" src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
 
 <div style="display: inline_block"><br/>
   <img  style="align: center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,5 +16,4 @@
   <img  style="align: center" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img  style="align: center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img  style="align: center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img  style="align: center" alt="Chrono Trigger" src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
 </div>
