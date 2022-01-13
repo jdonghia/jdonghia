@@ -4,7 +4,7 @@
 
 ### Stack:
 
-<div style="display: flex; flex-direction: row;">
+<div style="margin: 0; padding: 0; display: flex; flex-direction: row;">
  <img class="img"  style="margin: 0; padding: 0; width: 50%" src="https://github-readme-stats.vercel.app/api?username=jdonghia&theme=radical" />
  <img class="img" style="margin: 0; padding: 0; width: 50%" src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
 </div>
