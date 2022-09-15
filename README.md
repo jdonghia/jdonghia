@@ -6,7 +6,7 @@
   </a> 
   </div>
      <div align="center">
-     <img  style="width: 40%" src="https://tenor.com/view/poze-mc-poze-poze-do-rodo-mc-poze-do-rodo-vou-at%C3%A9dar-um-mergulho-gif-20228623" />
+     <img  style="width: 40%" src="https://cdn.discordapp.com/attachments/515724401598136322/1020001361716322404/poze-mc-poze.gif" />
   </div>
 </div>
 
