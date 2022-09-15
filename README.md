@@ -6,7 +6,7 @@
   </a> 
   </div>
      <div align="center">
-     <img  style="width: 40%" src="https://cdn.discordapp.com/attachments/515724401598136322/1020001361716322404/poze-mc-poze.gif" />
+     <img  style="width: 40%" src="https://cdn.discordapp.com/attachments/515724401598136322/1020002753042456586/215586.gif" />
   </div>
 </div>
 
