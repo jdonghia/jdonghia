@@ -4,10 +4,11 @@
   <a href="https://www.linkedin.com/in/joão-donghia-4a0379200/" target="_blank">
     <img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  </div>
-     <div align="center">
-     <img  style="width: 40%" src="https://cdn.discordapp.com/attachments/515724401598136322/1020002753042456586/215586.gif" />
-  </div>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdonghia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center" style="display: inline_block"><br/>
