@@ -23,7 +23,6 @@ Procuro desenvolver aplicações utilizando boas práticas de desenvolvimento: C
 <img alt="Typescript"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img  alt="AWS"  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   </div>
-<br />
 
 #
 
