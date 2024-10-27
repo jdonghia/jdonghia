@@ -3,7 +3,7 @@
 <div>
   <h2>Hi! I'm João Donghia</h2>
   <h3>Front-end software engineer specialized in Typescript, React.js and Next.js</h3>
-  <div style="display: flex; align-items: center;">
+  <div style="display: inline_block">
     <p><b>Checkout my profile:</b></p>
     <a href="https://www.linkedin.com/in/joão-donghia-4a0379200/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
