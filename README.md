@@ -25,6 +25,7 @@ Procuro desenvolver aplicações utilizando boas práticas de desenvolvimento: C
   </div>
 <br />
 
+#
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdonghia&show_icons=true&theme=react"/>
