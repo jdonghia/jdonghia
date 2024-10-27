@@ -5,6 +5,9 @@
   <a style="align: center" href="https://www.linkedin.com/in/joão-donghia-4a0379200/" target="_blank">
     <img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
+</div>
+
+<div>
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif">
 </div>
 
