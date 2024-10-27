@@ -12,6 +12,7 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdonghia&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <div align="center" style="display: inline_block"><br/>
   <img  style="align: center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
