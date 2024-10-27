@@ -1,5 +1,11 @@
 # Hi! I'm João Donghia
-**`Front-end software engineer specialized in (Typescript, React.js and Next.js)`**
+**`Front-end software engineer specialized in Typescript, React.js and Next.js`**
+
+👋 Hi there! 
+I'm João Donghia, a passionate front-end developer with expertise in React, TypeScript, and Tailwind CSS.
+💻 I thrive on developing applications using industry best practices, drawing inspiration from Clean Code principles, Git Flow, Git conventional commits, and adhering to the BEM methodology for CSS.
+🚀 My commitment extends to dynamically structuring components, providers, and hooks, ensuring reusability across diverse applications. I strongly believe in the importance of effective code management and continuous maintenance for creating clean and standardized systems.
+🌐 Explore my skills and projects on my CV website: www.jdonghia.github.io
 
 <div>                                                                              
   <div>
