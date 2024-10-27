@@ -1,5 +1,5 @@
 # Hi! I'm João Donghia
-**Front-end software engineer specialized in TypeScript, React.js, and Next.js**
+**`Front-end software engineer specialized in TypeScript, React.js, and Next.js`**
 
 Olá! Sou desenvolvedor de software com especialização em front-end, trabalho predominantemente com React, Next.js e TypeScript. Meu foco consiste na construção de aplicações escaláveis, reutilizáveis e de fácil manutenção. 
 Também possuo experiência em criar interfaces interativas e fluídas utilizando animações com Framer Motion. Procuro desenvolver aplicações utilizando boas práticas de desenvolvimento: Clean Code, Git Flow e git Conventional.  
