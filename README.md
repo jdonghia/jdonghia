@@ -7,10 +7,6 @@
   </a> 
 </div>
 
-<div>
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif">
-</div>
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdonghia&show_icons=true&theme=react"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&layout=compact&theme=react"/>
