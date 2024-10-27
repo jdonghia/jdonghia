@@ -30,6 +30,10 @@ Specialized in **TypeScript**, **React.js**, and **Next.js**.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&layout=compact&theme=react"/>
 </div>
 
+### Works
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXl5enlwMmRyMWJmeW44b2tkeXIzaXdybDRyanE0emV5ZHoxZWl1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLCCs9Iwril2MDDRyO/giphy.webp"/>
+
 
 
 
