@@ -4,6 +4,7 @@
   <h2>Hi! Im João Donghia</h2>
   <h3>Front-end software engineer specialized in Typescript, React.js and Next.js</h3>
   <a style="align: center" href="https://www.linkedin.com/in/joão-donghia-4a0379200/" target="_blank">
+    Checkout my profile: 
     <img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
