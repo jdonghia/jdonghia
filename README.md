@@ -1,6 +1,7 @@
-<div display="flex">
-  <h2>Hi! I'm João Donghia</h2>
-  <h3>Front-end software engineer specialized in Typescript, React.js and Next.js</h3>
+# Hi! I'm João Donghia
+**Front-end software engineer specialized in Typescript, React.js and Next.js**
+
+<div>                                                                              
   <div>
     <p><b>Checkout my profile:</b></p>
     <a href="https://www.linkedin.com/in/joão-donghia-4a0379200/" target="_blank">
