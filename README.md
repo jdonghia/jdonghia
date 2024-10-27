@@ -16,10 +16,10 @@ Procuro desenvolver aplicações utilizando boas práticas de desenvolvimento: C
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img align="left" alt="ReactJS" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="left" alt="NextJS" style="padding-right:10px;" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img align="left" alt="ReactJS" style="padding-right:10px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img align="left" alt="Tailwind" style="padding-right:10px;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img align="left" alt="Typescript" style="padding-right:10px;" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <br />
 
