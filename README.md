@@ -10,11 +10,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdonghia&show_icons=true&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&layout=compact&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdonghia&show_icons=true&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&layout=compact&theme=react"/>
 </div>
 
-<div align="center" style="display: inline_block"><br/>
+<div align="center" ><br/>
   <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
