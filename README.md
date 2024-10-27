@@ -1,4 +1,4 @@
-<div>
+<div display="flex">
   <h2>Hi! I'm João Donghia</h2>
   <h3>Front-end software engineer specialized in Typescript, React.js and Next.js</h3>
   <div>
