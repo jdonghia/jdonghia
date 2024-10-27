@@ -2,6 +2,7 @@
 ### Front-end Software Engineer
 
 Specialized in TypeScript, React.js, and Next.js.
+
 🌐 Check out my personal website: https://jdonghia.github.io/
 
 <div>                                                                              
