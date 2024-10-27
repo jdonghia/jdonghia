@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jdonghia&show_icons=true&theme=react"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&layout=compact&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&layout=compact&theme=react"/>
 </div>
 
 <div align="center" style="display: inline_block"><br/>
