@@ -1,8 +1,8 @@
 # Hi! I'm João Donghia
 ### Front-end Software Engineer
 
-🌟 Specialized in TypeScript, React.js, and Next.js. Passionate about building scalable, reusable, and maintainable applications that deliver a seamless user experience.
-🎨 With a strong background in crafting interactive and fluid interfaces, I leverage animations using Framer Motion to enhance user engagement. I am committed to following best practices in software development, including Clean Code, Git Flow, and Git Conventional.
+Specialized in TypeScript, React.js, and Next.js. Passionate about building scalable, reusable, and maintainable applications that deliver a seamless user experience.
+With a strong background in crafting interactive and fluid interfaces, I leverage animations using Framer Motion to enhance user engagement. I am committed to following best practices in software development, including Clean Code, Git Flow, and Git Conventional.
 🌐 Check out my personal website: https://jdonghia.github.io/
 
 <div>                                                                              
