@@ -1,7 +1,8 @@
 
-<div style="display: flex">
-  <h2>Hi! Im João Donghia. Front-end Software Engineer</h2>
-  <a href="https://www.linkedin.com/in/joão-donghia-4a0379200/" target="_blank">
+
+<div align="center" style="display: inline_block"><br/>
+  <h2  style="align: center">Hi! Im João Donghia. Front-end Software Engineer</h2>
+  <a  style="align: center" href="https://www.linkedin.com/in/joão-donghia-4a0379200/" target="_blank">
     <img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
