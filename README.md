@@ -1,5 +1,5 @@
 # Hi! I'm João Donghia
-**Front-end software engineer specialized in Typescript, React.js and Next.js**
+**`Front-end software engineer specialized in (Typescript, React.js and Next.js)**
 
 <div>                                                                              
   <div>
