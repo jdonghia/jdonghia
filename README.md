@@ -3,7 +3,7 @@
 
 Specialized in **TypeScript**, **React.js**, and **Next.js**.
 
-🌐 Check out my personal website: https://jdonghia.me/
+🌐 Check out my personal website: <a href="https://jdonghia.me/" target="_blank">
 
 <div>                                                                              
   <a href="https://www.linkedin.com/in/joão-donghia-4a0379200/" target="_blank">
