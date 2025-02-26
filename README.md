@@ -22,13 +22,6 @@ Specialized in **TypeScript**, **React.js**, and **Next.js**.
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
-#
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdonghia&show_icons=true&theme=react"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&layout=compact&theme=react"/>
-</div>
-
 ### Works:
 ***`click to check:`***
 
@@ -44,9 +37,12 @@ Specialized in **TypeScript**, **React.js**, and **Next.js**.
   <a href="https://jdonghiacssmotion.vercel.app/" target="_blank">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc1djhpeG0yYzZwbzdxZGcwenk5Mjh3aTFuZ25mMWhvcXI4NG84aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AyfqWszQzSXItvgkG9/giphy.gif"/>
   </a>
+</div
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdonghia&show_icons=true&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&layout=compact&theme=react"/>
 </div>
-
-
 
 
 
