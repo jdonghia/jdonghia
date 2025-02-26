@@ -24,7 +24,7 @@ Specialized in **TypeScript**, **React.js**, and **Next.js**.
 
 ### Works:
 ***`click to check:`***
-<div style="width: 30em;">   
+<div style="width:30em;">   
   <a href="https://jdonghiacssmotion.vercel.app/" target="_blank">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml0bWN4cjQ2N3drMGxhNTZkOTY2M3duZGphN3dveGRsYnIyMDRyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLCCs9Iwril2MDDRyO/giphy.gif"/>
   </a>
