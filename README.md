@@ -24,13 +24,16 @@ Specialized in **TypeScript**, **React.js**, and **Next.js**.
 
 ### Works:
 ***`click to check:`***
-
-<div style="display: flex;">   
+<div>   
   <a href="https://jdonghiacssmotion.vercel.app/" target="_blank">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExankzdG01MG5jd3V1MWZ4aHRsdnppaGg0MDM5MXI2cml3czcxcXp2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g8V3ttTYJW2tQQyGKL/giphy.gif"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExankzdG01MG5jd3V1MWZ4aHRsdnppaGg0MDM5MXI2cml3czcxcXp2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g8V3ttTYJW2tQQyGKL/giphy.gif" width="50em"/>
   </a>
-   <a href="https://jdonghia.me" target="_blank">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc1djhpeG0yYzZwbzdxZGcwenk5Mjh3aTFuZ25mMWhvcXI4NG84aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AyfqWszQzSXItvgkG9/giphy.gif"/>
+</div>
+
+***`click to check:`***
+<div>   
+ <a href="https://jdonghia.me" target="_blank">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc1djhpeG0yYzZwbzdxZGcwenk5Mjh3aTFuZ25mMWhvcXI4NG84aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AyfqWszQzSXItvgkG9/giphy.gif" width="50em"/>
   </a>
 </div>
 
