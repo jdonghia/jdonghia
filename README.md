@@ -39,6 +39,8 @@ Specialized in **TypeScript**, **React.js**, and **Next.js**.
   </a>
 </div
 
+#
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdonghia&show_icons=true&theme=react"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdonghia&layout=compact&theme=react"/>
