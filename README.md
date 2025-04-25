@@ -13,7 +13,7 @@ Specialized in **TypeScript**, **React.js**, and **Next.js**.
 
 ---
 
-### 🧰 Primary Language and Tools
+### 🧰 Primary Languages and Tools
 
 <div>
   <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
