@@ -1,5 +1,5 @@
 # Hi! I'm João Donghia
-### Front-end Software Engineer
+### Frontend Engineer
 
 Specialized in **TypeScript**, **React.js**, and **Next.js**.
 
