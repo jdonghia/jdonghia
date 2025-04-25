@@ -22,7 +22,7 @@ Specialized in **TypeScript**, **React.js**, and **Next.js**.
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
-### Works:
+### Selected Projects:
 ***`click to check:`***
 <div>   
   <a href="https://jdonghiacssmotion.vercel.app/" target="_blank">
